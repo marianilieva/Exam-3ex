@@ -1,0 +1,28 @@
+*   {
+    margin: 0.3rem;
+    padding: 0.2rem;
+}
+
+button  {
+    padding: 0.5rem 2rem;
+    color: white;
+    background-color: black;
+    border: 3px double gray;
+}
+
+button:hover    {
+    transform: scale(1.1);
+    background-color: rgb(206, 198, 198);
+    border: 3px double black;
+}
+
+input   {
+    margin: 0;
+    width: 3rem;
+}
+
+table, th, tr, td   {
+    border: 3px solid black;
+    border-collapse: collapse;
+    box-shadow: 0 0 3px darkgrey;
+}
